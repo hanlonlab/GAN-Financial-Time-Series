@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipython/
 
 # IPython
 profile_default/
@@ -131,3 +132,6 @@ dmypy.json
 
 *.local/
 .idea/
+/notebooks/.jupyter/
+/notebooks/.keras/
+/notebooks/.config/
